@@ -1,0 +1,8 @@
+- When connect menu selected and no settings run setting dialog.
+- @ midnight archive tab text and reset.
+- reconnect on disconnect
+- display connection status
+- when joining second channel, you aren't added to user list of new channel.
+- add multiple servers.
+- log call info to server window.
+
